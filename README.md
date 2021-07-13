@@ -17,13 +17,7 @@ We can exit by pressing 2.
 
 ![image](https://user-images.githubusercontent.com/86590548/125452964-b91d6714-d35f-4e46-a488-4f6d151ab9f5.png)
 
-|       Folder        |            Description                         |
-  |      Contents        |            Description                         |
-  |:--------------------|:-----------------------------------------------|
-  |1.Requirements       |Documents detailing requirements and research   |
-  |2.Design             |Documents specifying design details             |
-  |3.implementation     |All code and documentation                      |
-  |4.Testplan           |Documents with test plans and procedures        |
+  
 
 Contributors List and Summary:
 |SF Id.|Name|Features|Issuess Raised|Issues Resolved|No. of TestCases|Test Case|
