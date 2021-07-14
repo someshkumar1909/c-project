@@ -24,4 +24,8 @@ Contributors List and Summary:
 |Candidate Id.|Name|Features|Issuess Raised|Issues Resolved|No. of TestCases|Test Case|
 |:-----|:---|:-------|:-------------|:--------------|:-----------|:--------|
 |314184|Somesh kumar| |||2|2|
-
+## Building
+vs code is hard-coded in the makefile, but any C89 compiler can do the job.  
+This program only depends on libc.  
+To build, simply use `make`. It will generate an executable in the same
+directory.
